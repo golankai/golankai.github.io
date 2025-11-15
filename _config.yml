@@ -18,7 +18,6 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
-- jekyll-scholar
 
 # Site settings
 url: 'https://mydomain.com'
