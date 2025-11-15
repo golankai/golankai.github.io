@@ -11,7 +11,6 @@ exclude:
 plugins:
 - jekyll-sitemap
 - jekyll-mentions
-- jekyll-paginate
 - jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-feed
@@ -19,6 +18,7 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
+- jekyll-scholar
 
 # Site settings
 url: 'https://mydomain.com'
@@ -29,45 +29,26 @@ permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
-paginate: 5
-paginate_path: blog/page:num
+# Blog pagination removed
 
 # Header nav
 navigation_header:
 - title: Home
   url: /
-- title: Blog
-  url: /blog/
 - title: Publications
-   url: /publications/
+  url: /publications/
 - title: CV
-   url: /cv/
+  url: /cv/
 - title: Contact
-   url: /contact/
+  url: /contact/
 
 # Footer nav
 navigation_footer:
 - title: Back to top
   url: "#top"
 
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My thoughts and ideasssss"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
-
 # Collection settings
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post # Set the default layout for posts
   -
     scope:
       path: ""
