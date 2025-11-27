@@ -79,7 +79,7 @@ title: Kai Golan Hashiloni
       <path d="M4 6.5C4 5.67 4.67 5 5.5 5H18.5C19.33 5 20 5.67 20 6.5V17.5C20 18.33 19.33 19 18.5 19H5.5C4.67 19 4 18.33 4 17.5V6.5Z" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
       <path d="M21 6L12 13L3 6" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>
-    Email (Academic)
+    Email (academic)
   </a>
 </div>
 
