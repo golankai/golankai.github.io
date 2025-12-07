@@ -1,9 +1,17 @@
 ---
-title: ✉︎ Contact
-permalink: /contact/
+title: DharmaBench
+permalink: /dharmabench/
 ---
 
-You can reach me at:
+DharmaBench: Evaluating Language Models on Buddhist Texts in Sanskrit and Tibetan (AACL, 2025).
+
+Full paper: [link](https://drive.google.com/file/d/1v499WejoFek_ZuLdIv5R4c6uaAg8pL2T/view?usp=sharing)
+
+Code and data: [GitHub repository](https://github.com/Intellexus-DSI/DharmaBench)
+
+Keep in touch!
+Kai Golan Hashiloni:
+
 
 <div style="margin-top: 20px; display:flex; gap:40px; align-items:center;">
   <a
