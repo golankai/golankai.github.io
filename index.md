@@ -6,15 +6,19 @@ title: Kai Golan Hashiloni
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px;">
-    <p>Nice to meet you! I am Kai, an NLP enthusiast and a hard worker. I explore the intersection of languages and computers, focusing the low-resource languages and LLMs understanding and representation abilities.</p>
+    <p>Nice to meet you! I am Kai, an NLP enthusiast and a hard worker. I'm currently a PhD Student at Reichman University, Israel. I explore the intersection of languages and computers, focusing the low-resource languages and LLMs understanding and representation abilities.</p>
   </div>
 
   <div>
     <img src="/assets/kai.jpg" 
          alt="Kai Golan Hashiloni"
-         style="width: 300px; border-radius: 12px; margin-top: 5px;" />
+         style="width: 250px; border-radius: 12px; margin-top: 5px;" />
   </div>
 </div>
+
+
+<p>I am a lead researcher in the ERC Synergy funded project <a href="https://intellexus.net/">Intellexus</a>, where we study the "Geology of Texts, Genealogy of Concepts and Intellectual Ecosystems in the Indic and Tibetic Buddhist Text Corpora". </p>
+
 
 <p>Feel free to explore my <a href="/cv/">CV</a>, check out my <a href="/publications/">publications</a>, or <a href="/contact/">contact me</a> for collaborations or inquiries!</p>
 
