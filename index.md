@@ -24,16 +24,17 @@ title: Kai Golan Hashiloni
 
 
 
-<div style="margin-top: 20px; display:flex; gap:40px; align-items:center;">
+<div style="margin-top: 20px; display:flex; gap:24px; flex-wrap:wrap; align-items:center;">
   <a
     href="https://www.linkedin.com/in/kai-golan-hashiloni/"
     target="_blank"
     rel="noopener noreferrer"
     aria-label="Open LinkedIn profile"
     title="LinkedIn"
-    style="display:inline-block;"
+    style="display:inline-flex; align-items:center; gap:8px; text-decoration:none; color:inherit; font-weight:600;"
   >
-    <img src="/assets/linkedin.png" alt="LinkedIn logo" style="width:64px; height:64px; display:block;" />
+    <img src="/assets/linkedin.png" alt="LinkedIn logo" style="width:40px; height:40px; display:block;" />
+    LinkedIn
   </a>
 
   <a
@@ -42,9 +43,10 @@ title: Kai Golan Hashiloni
     rel="noopener noreferrer"
     aria-label="Open GitHub profile"
     title="GitHub"
-    style="display:inline-block;"
+    style="display:inline-flex; align-items:center; gap:8px; text-decoration:none; color:inherit; font-weight:600;"
   >
-    <img src="/assets/github.png" alt="GitHub logo" style="width:64px; height:64px; display:block;" />
+    <img src="/assets/github.png" alt="GitHub logo" style="width:40px; height:40px; display:block;" />
+    GitHub
   </a>
 
   <a
@@ -53,9 +55,22 @@ title: Kai Golan Hashiloni
     rel="noopener noreferrer"
     aria-label="Open Google Scholar profile"
     title="Google Scholar"
-    style="display:inline-block;"
+    style="display:inline-flex; align-items:center; gap:8px; text-decoration:none; color:inherit; font-weight:600;"
   >
-    <img src="/assets/scholar.png" alt="Google Scholar logo" style="width:64px; height:64px; display:block;" />
+    <img src="/assets/scholar.png" alt="Google Scholar logo" style="width:40px; height:40px; display:block;" />
+    Scholar
+  </a>
+
+  <a
+    href="https://aclanthology.org/people/kai-golan-hashiloni/unverified/"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Open ACL Anthology profile"
+    title="ACL Anthology"
+    style="display:inline-flex; align-items:center; gap:8px; text-decoration:none; color:inherit; font-weight:600;"
+  >
+    <img src="/assets/acl.png" alt="ACL logo" style="width:40px; height:40px; display:block;" />
+    ACL Anthology
   </a>
 </div>
 
@@ -86,5 +101,39 @@ title: Kai Golan Hashiloni
     Email (academic)
   </a>
 </div>
+
+<br>
+
+## My Research
+
+<div style="background-color: #e5eaf0; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0; margin-bottom: 10px;">Computational Linguistics</h3>
+  <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.95em;">I investigate non-compositional language phenomena such as idioms and metaphors, using LLMs to study how meaning emerges beyond individual words. This work combines linguistic theory with modern neural methods to better understand semantic representation.</p>
+  <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;"><em>Example:</em> <a href="https://aclanthology.org/2025.emnlp-main.1213/">Easy as PIE? Identifying Multi-Word Expressions with LLMs</a> (Hashiloni et al., 2025)</p>
+</div>
+
+<div style="background-color: #e5eaf0; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0; margin-bottom: 10px;">Digital Humanities</h3>
+  <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.95em;">Together with the ERC Synergy project <a href="https://intellexus.net/">Intellexus</a>, I develop language technologies for the analysis of Buddhist texts in Sanskrit and Tibetan, bridging NLP with philology and cultural studies. I aim to enable large-scale, computational access to historical knowledge.</p>
+  <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;"><em>Example:</em> <a href="https://aclanthology.org/2025.ijcnlp-long.114/">DharmaBench: Evaluating Language Models on Buddhist Texts in Sanskrit and Tibetan</a> (Hashiloni et al., 2025)</p>
+</div>
+
+<div style="background-color: #e5eaf0; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0; margin-bottom: 10px;">Low-Resource Languages</h3>
+  <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;">My research focuses on modeling underrepresented languages such as Sanskrit, Tibetan, and Hebrew. I develop methods for learning with limited data, often leveraging cross-lingual transfer and prompt-based approaches to extend NLP capabilities beyond high-resource settings.</p>
+</div>
+
+<div style="background-color: #e5eaf0; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0; margin-bottom: 10px;">Safety in AI</h3>
+  <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.95em;">I study interpretability and explainability in large language models, with a focus on how meaning is represented across layers and prompts. My work explores how we can better understand, trust, and control LLM behavior in complex linguistic tasks.</p>
+  <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;"><em>Example:</em> <a href="https://aclanthology.org/2025.ijcnlp-long.136/">Not Just a Piece of Cake: Cross-Lingual Fine-Tuning for Idiom Identification</a> (Hefetz et al., 2025)</p>
+</div>
+
+<div style="background-color: #e5eaf0; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0; margin-bottom: 10px;">NLP for Healthcare</h3>
+  <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.95em;">Together with <a href="https://www.tasmc.org.il/rd/i-next-data/">I-NEXT DATA</a> at the Tel Aviv Sourasky Medical Center (Ichilov), we design NLP systems for real-world healthcare impact. We develop NLP pipelines for extracting structured patient journeys from clinical records and anonymizing sensitive text. Our research emphasizes privacy-preserving methods and the responsible deployment of language models in medical domains.</p>
+  <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;"><em>Example:</em> <a href="https://arxiv.org/html/2512.11502v1">Building Patient Journeys in Hebrew: A Language Model for Clinical Timeline Extraction</a> (Hashiloni et al., 2025)</p>
+</div>
+
 
 
