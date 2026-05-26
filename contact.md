@@ -3,6 +3,8 @@ title: ✉︎ Contact
 permalink: /contact/
 ---
 
+{% include custom_style.html %}
+
 You can reach me at:
 
 <div style="margin-top: 20px; display:flex; gap:40px; align-items:center;">

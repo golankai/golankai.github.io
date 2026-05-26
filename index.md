@@ -3,6 +3,8 @@ title: Kai Golan Hashiloni
 
 ---
 
+{% include custom_style.html %}
+
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px;">
@@ -104,33 +106,91 @@ title: Kai Golan Hashiloni
 
 <br>
 
+## News
+
+<div style="font-size: 0.9em; border-top: 1px solid #ccc; margin-top: 0.5em;">
+
+  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Dec 2025</span>
+    <span><a href="https://aclanthology.org/2025.ijcnlp-long.136/">Not Just a Piece of Cake</a> accepted as a long paper at IJCNLP-AACL 2025.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Dec 2025</span>
+    <span><a href="https://aclanthology.org/2025.ijcnlp-long.114/">DharmaBench</a> accepted as a long paper at IJCNLP-AACL 2025.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Nov 2025</span>
+    <span><a href="https://aclanthology.org/2025.emnlp-main.1213/">Easy as PIE?</a> accepted to EMNLP 2025 (main conference).</span>
+  </div>
+
+  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Aug 2025</span>
+    <span><a href="https://arxiv.org/html/2512.11502v1">Building Patient Journeys in Hebrew</a> accepted at IJCAI 2025 workshop.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Apr 2025</span>
+    <span>Started a Computer Science PhD at Reichman University, supervised by Dr. Kfir Bar.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Apr 2025</span>
+    <span>Joined <a href="https://www.tasmc.org.il/rd/i-next-data/">I-NEXT DATA</a> at Tel Aviv Sourasky Medical Center as NLP Research Consultant.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Oct 2024</span>
+    <span>Started teaching Data Science / NLP as a self-employed lecturer.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Apr 2023</span>
+    <span>Joined TU Darmstadt (TrustHLT group) as a research assistant on Differential Privacy and text anonymization.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 6em; color: #888; flex-shrink: 0;">2022–2025</span>
+    <span>Graduated <strong>Summa cum laude</strong>, MSc in Computer Science, Reichman University.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 6em; color: #888; flex-shrink: 0;">2022</span>
+    <span>Graduated <strong>Summa cum laude</strong>, BSc in Computer Science &amp; Entrepreneurship, Reichman University.</span>
+  </div>
+
+</div>
+
+<p style="margin-top: 0.6em; font-size: 0.9em;"><a href="/publications/">… See all publications →</a></p>
+
 ## My Research
 
-<div style="background-color: #e5eaf0; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0; margin-bottom: 10px;">Computational Linguistics</h3>
+<div style="background-color: #e8f0f8; border-left: 3px solid #1a4b8c; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0; margin-bottom: 10px; color: #1a4b8c;">Computational Linguistics</h3>
   <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.95em;">I investigate non-compositional language phenomena such as idioms and metaphors, using LLMs to study how meaning emerges beyond individual words. This work combines linguistic theory with modern neural methods to better understand semantic representation.</p>
   <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;"><em>Example:</em> <a href="https://aclanthology.org/2025.emnlp-main.1213/">Easy as PIE? Identifying Multi-Word Expressions with LLMs</a> (Hashiloni et al., 2025)</p>
 </div>
 
-<div style="background-color: #e5eaf0; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0; margin-bottom: 10px;">Digital Humanities</h3>
+<div style="background-color: #e8f0f8; border-left: 3px solid #1a4b8c; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0; margin-bottom: 10px; color: #1a4b8c;">Digital Humanities</h3>
   <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.95em;">Together with the ERC Synergy project <a href="https://intellexus.net/">Intellexus</a>, I develop language technologies for the analysis of Buddhist texts in Sanskrit and Tibetan, bridging NLP with philology and cultural studies. I aim to enable large-scale, computational access to historical knowledge.</p>
   <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;"><em>Example:</em> <a href="https://aclanthology.org/2025.ijcnlp-long.114/">DharmaBench: Evaluating Language Models on Buddhist Texts in Sanskrit and Tibetan</a> (Hashiloni et al., 2025)</p>
 </div>
 
-<div style="background-color: #e5eaf0; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0; margin-bottom: 10px;">Low-Resource Languages</h3>
+<div style="background-color: #e8f0f8; border-left: 3px solid #1a4b8c; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0; margin-bottom: 10px; color: #1a4b8c;">Low-Resource Languages</h3>
   <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;">My research focuses on modeling underrepresented languages such as Sanskrit, Tibetan, and Hebrew. I develop methods for learning with limited data, often leveraging cross-lingual transfer and prompt-based approaches to extend NLP capabilities beyond high-resource settings.</p>
 </div>
 
-<div style="background-color: #e5eaf0; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0; margin-bottom: 10px;">Safety in AI</h3>
+<div style="background-color: #e8f0f8; border-left: 3px solid #1a4b8c; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0; margin-bottom: 10px; color: #1a4b8c;">Safety in AI</h3>
   <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.95em;">I study interpretability and explainability in large language models, with a focus on how meaning is represented across layers and prompts. My work explores how we can better understand, trust, and control LLM behavior in complex linguistic tasks.</p>
   <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;"><em>Example:</em> <a href="https://aclanthology.org/2025.ijcnlp-long.136/">Not Just a Piece of Cake: Cross-Lingual Fine-Tuning for Idiom Identification</a> (Hefetz et al., 2025)</p>
 </div>
 
-<div style="background-color: #e5eaf0; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0; margin-bottom: 10px;">NLP for Healthcare</h3>
+<div style="background-color: #e8f0f8; border-left: 3px solid #1a4b8c; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0; margin-bottom: 10px; color: #1a4b8c;">NLP for Healthcare</h3>
   <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.95em;">Together with <a href="https://www.tasmc.org.il/rd/i-next-data/">I-NEXT DATA</a> at the Tel Aviv Sourasky Medical Center (Ichilov), we design NLP systems for real-world healthcare impact. We develop NLP pipelines for extracting structured patient journeys from clinical records and anonymizing sensitive text. Our research emphasizes privacy-preserving methods and the responsible deployment of language models in medical domains.</p>
   <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;"><em>Example:</em> <a href="https://arxiv.org/html/2512.11502v1">Building Patient Journeys in Hebrew: A Language Model for Clinical Timeline Extraction</a> (Hashiloni et al., 2025)</p>
 </div>

@@ -3,6 +3,8 @@ title: DharmaBench
 permalink: /dharmabench/
 ---
 
+{% include custom_style.html %}
+
 DharmaBench: Evaluating Language Models on Buddhist Texts in Sanskrit and Tibetan (AACL, 2025).
 
 Full paper: [link](https://drive.google.com/file/d/1v499WejoFek_ZuLdIv5R4c6uaAg8pL2T/view?usp=sharing)

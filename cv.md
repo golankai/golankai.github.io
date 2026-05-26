@@ -3,6 +3,8 @@ title: 📝 CV
 permalink: /cv/
 ---
 
+{% include custom_style.html %}
+
 You can download my full CV here: [Download my CV!](/assets/cv.pdf){:download="CV.pdf" target="_blank" rel="noopener"}
 
 <div style="text-align:center">
