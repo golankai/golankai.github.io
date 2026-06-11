@@ -22,7 +22,7 @@ title: Kai Golan Hashiloni
 <p>I am a lead researcher in the ERC Synergy funded project <a href="https://intellexus.net/">Intellexus</a>, where we study the "Geology of Texts, Genealogy of Concepts and Intellectual Ecosystems in the Indic and Tibetic Buddhist Text Corpora". </p>
 
 
-<p>Feel free to explore my <a href="/cv/">CV</a>, check out my <a href="/publications/">publications</a>, or <a href="/contact/">contact me</a> for collaborations or inquiries!</p>
+<p>Feel free to explore my <a href="/cv/">CV</a>, check out my <a href="/publications/">publications</a>, browse my <a href="/activity/">talks &amp; events</a>, or <a href="/contact/">contact me</a> for collaborations or inquiries!</p>
 
 
 
@@ -108,61 +108,62 @@ title: Kai Golan Hashiloni
 
 ## News
 
-<div style="font-size: 0.9em; border-top: 1px solid #ccc; margin-top: 0.5em;">
+<div style="font-size: 0.82em; line-height: 1.35; border-top: 1px solid #ccc; margin-top: 0.3em;">
 
-  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Dec 2025</span>
-    <span><a href="https://aclanthology.org/2025.ijcnlp-long.136/">Not Just a Piece of Cake</a> accepted as a long paper at IJCNLP-AACL 2025.</span>
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 5.8em; color: #888; flex-shrink: 0; font-size: 0.95em;">Apr 16–19, 2026</span>
+    <span>Participated in a <strong>Workshop on Tibetan Translation and AI</strong> in Padua, Italy.</span>
   </div>
 
-  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Dec 2025</span>
-    <span><a href="https://aclanthology.org/2025.ijcnlp-long.114/">DharmaBench</a> accepted as a long paper at IJCNLP-AACL 2025.</span>
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 5.8em; color: #888; flex-shrink: 0; font-size: 0.95em;">Feb 8, 2026</span>
+    <span>Organized the <strong>Intellexus Annual Nexus 2026</strong> in Herzliya, Israel.</span>
   </div>
 
-  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Nov 2025</span>
-    <span><a href="https://aclanthology.org/2025.emnlp-main.1213/">Easy as PIE?</a> accepted to EMNLP 2025 (main conference).</span>
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 5.8em; color: #888; flex-shrink: 0; font-size: 0.95em;">Feb 3, 2026</span>
+    <span>Talk at <strong>KU Leuven</strong> in Leuven, Belgium: "Towards Idea Discovery"</span>
   </div>
 
-  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Aug 2025</span>
-    <span><a href="https://arxiv.org/html/2512.11502v1">Building Patient Journeys in Hebrew</a> accepted at IJCAI 2025 workshop.</span>
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 5.8em; color: #888; flex-shrink: 0; font-size: 0.95em;">Jan 29, 2026</span>
+    <span>Talk at <strong>University of Copenhagen</strong> in Copenhagen, Denmark: "Towards Idea Discovery"</span>
   </div>
 
-  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Apr 2025</span>
-    <span>Started a Computer Science PhD at Reichman University, supervised by Dr. Kfir Bar.</span>
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 5.8em; color: #888; flex-shrink: 0; font-size: 0.95em;">Jan 20, 2026</span>
+    <span>Talk at <strong>Dharma Drum Institute of Liberal Arts</strong> in New Taipei, Taiwan: "Towards NLP-based Analysis of Buddhist Corpora"</span>
   </div>
 
-  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Apr 2025</span>
-    <span>Joined <a href="https://www.tasmc.org.il/rd/i-next-data/">I-NEXT DATA</a> at Tel Aviv Sourasky Medical Center as NLP Research Consultant.</span>
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 5.8em; color: #888; flex-shrink: 0; font-size: 0.95em;">Jan 14, 2026</span>
+    <span>Talk at <strong>Fo Guang Shan Monastery</strong> in Kaohsiung, Taiwan: "Towards NLP-based Analysis of Buddhist Corpora"</span>
   </div>
 
-  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Oct 2024</span>
-    <span>Started teaching Data Science / NLP as a self-employed lecturer.</span>
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 5.8em; color: #888; flex-shrink: 0; font-size: 0.95em;">Dec 2025</span>
+    <span><a href="https://aclanthology.org/2025.ijcnlp-long.136/">Not Just a Piece of Cake</a> accepted to <strong>IJCNLP-AACL 2025</strong>, Main Track.</span>
   </div>
 
-  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="min-width: 6em; color: #888; flex-shrink: 0;">Apr 2023</span>
-    <span>Joined TU Darmstadt (TrustHLT group) as a research assistant on Differential Privacy and text anonymization.</span>
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 5.8em; color: #888; flex-shrink: 0; font-size: 0.95em;">Dec 2025</span>
+    <span><a href="https://aclanthology.org/2025.ijcnlp-long.114/">DharmaBench</a> accepted to <strong>IJCNLP-AACL 2025</strong>, Main Track.</span>
   </div>
 
-  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="min-width: 6em; color: #888; flex-shrink: 0;">2022–2025</span>
-    <span>Graduated <strong>Summa cum laude</strong>, MSc in Computer Science, Reichman University.</span>
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 5.8em; color: #888; flex-shrink: 0; font-size: 0.95em;">Dec 9, 2025</span>
+    <span>Talk at <strong>Keio University</strong> in Tokyo, Japan: "Intellexus Research"</span>
   </div>
 
-  <div style="display: flex; gap: 1.5em; padding: 0.55em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="min-width: 6em; color: #888; flex-shrink: 0;">2022</span>
-    <span>Graduated <strong>Summa cum laude</strong>, BSc in Computer Science &amp; Entrepreneurship, Reichman University.</span>
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 5.8em; color: #888; flex-shrink: 0; font-size: 0.95em;">Dec 1, 2025</span>
+    <span>Talk at <strong>AIST</strong> in Tokyo, Japan: "Intellexus Research"</span>
   </div>
+
 
 </div>
 
-<p style="margin-top: 0.6em; font-size: 0.9em;"><a href="/publications/">… See all publications →</a></p>
+<p style="margin-top: 0.6em; font-size: 0.9em;"><a href="/news/">… See all news →</a> &nbsp;·&nbsp; <a href="/publications/">See all publications →</a> &nbsp;·&nbsp; <a href="/activity/">See talks &amp; events →</a></p>
 
 ## My Research
 

@@ -36,6 +36,8 @@ navigation_header:
   url: /
 - title: Publications
   url: /publications/
+- title: Activity
+  url: /activity/
 - title: CV
   url: /cv/
 - title: Contact
