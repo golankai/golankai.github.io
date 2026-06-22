@@ -73,7 +73,7 @@ indexing: false
   <div class="jam-subtitle">ACL 2026 &nbsp;·&nbsp; Kai Golan Hashiloni et al.</div>
 
   <div class="jam-links">
-    <a href="#">Paper</a>
+    <a href="https://drive.google.com/file/d/1F-PfI9d09_j3T3hvz-f9VmQUiDIGo9CE/view?usp=sharing">Paper</a>
     <a href="https://github.com/Intellexus-DSI/ID10M-JAM">Code</a>
     <a href="https://huggingface.co/datasets/Intellexus/ID10M-JAM">Dataset</a>
   </div>
