@@ -37,6 +37,11 @@ permalink: /news/
 <div class="news-list">
 
   <div class="news-row">
+    <span class="news-date">Jun 2026</span>
+    <span><a href="https://aclanthology.org/2026.findings-acl.1045/">ID10M-JAM: Stress-Testing Idiom Identification Under Challenging Context</a> accepted to <strong>ACL 2026</strong>, Findings.</span>
+  </div>
+
+  <div class="news-row">
     <span class="news-date">Apr 16–19, 2026</span>
     <span>Participated in a <strong>Workshop on Tibetan Translation and AI</strong> in Padua, Italy.</span>
   </div>

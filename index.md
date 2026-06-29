@@ -111,6 +111,11 @@ title: Kai Golan Hashiloni
 <div style="font-size: 0.82em; line-height: 1.35; border-top: 1px solid #ccc; margin-top: 0.3em;">
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="min-width: 5.8em; color: #888; flex-shrink: 0; font-size: 0.95em;">Jun 2026</span>
+    <span><a href="https://aclanthology.org/2026.findings-acl.1045/">ID10M-JAM</a> accepted to <strong>ACL 2026</strong>, Findings.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
     <span style="min-width: 5.8em; color: #888; flex-shrink: 0; font-size: 0.95em;">Apr 16–19, 2026</span>
     <span>Participated in a <strong>Workshop on Tibetan Translation and AI</strong> in Padua, Italy.</span>
   </div>

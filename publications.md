@@ -105,6 +105,13 @@ permalink: /publications/
 <ul class="pub-list">
 
   <li>
+    <div class="pub-venue">ACL 2026 Findings</div>
+    <div class="pub-title"><a href="https://aclanthology.org/2026.findings-acl.1045/">ID10M-JAM: Stress-Testing Idiom Identification Under Challenging Context</a></div>
+    <div class="pub-authors"><strong>Kai Golan Hashiloni</strong>, Lior Livyatan, Ofri Hefetz, Alon Mannor, Bar Cohen, and Kfir Bar</div>
+    <div class="pub-links"><a href="https://aclanthology.org/2026.findings-acl.1045/">Paper</a> <a href="https://github.com/Intellexus-DSI/ID10M-JAM">Code</a> <a href="https://huggingface.co/datasets/Intellexus/ID10M-JAM">Dataset</a></div>
+  </li>
+
+  <li>
     <div class="pub-venue">LREC 2026</div>
     <div class="pub-title"><a href="https://lrec.elra.info/lrec2026-main-079">Automatic Segmentation of Classical Tibetan Texts into Autochthonous and Allochthonous Regions</a></div>
     <div class="pub-authors">Guy Bilitski, Lev Shechter, Sonam Jamtsho, Nir Marciano, Nicola Bajetta, Rebecca Sundén, Omri Drori, <strong>Kai Golan Hashiloni</strong>, Orr Zwebner, Asaf Shina, Orna Almogi, Dorji Wangchuk, Kfir Bar</div>
