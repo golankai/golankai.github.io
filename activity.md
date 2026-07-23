@@ -34,6 +34,17 @@ permalink: /activity/
   }
 </style>
 
+<h2 class="act-section-heading">Teaching</h2>
+
+<div class="act-list">
+
+  <div class="act-item">
+    <div class="act-title">AI Workshop for Tibetan Studies</div>
+    <div class="act-meta">Jul 21–25, 2026 &nbsp;·&nbsp; Department of Culture and History of India and Tibet, Hamburg University &nbsp;·&nbsp; Hamburg, Germany</div>
+  </div>
+
+</div>
+
 <h2 class="act-section-heading">Talks</h2>
 
 <div class="act-list">
