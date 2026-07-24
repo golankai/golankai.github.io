@@ -27,14 +27,20 @@ permalink: /news/
     align-items: baseline;
   }
   .news-date {
-    min-width: 6.2em;
+    width: 7.5em;
     color: #888;
     flex-shrink: 0;
+    white-space: nowrap;
   }
 </style>
 
 <h2 class="news-year">2026</h2>
 <div class="news-list">
+
+  <div class="news-row">
+    <span class="news-date">Jul 21–25, 2026</span>
+    <span>Taught the <strong>AI Workshop for Tibetan Studies</strong> in Hamburg, Germany.</span>
+  </div>
 
   <div class="news-row">
     <span class="news-date">Jun 2026</span>

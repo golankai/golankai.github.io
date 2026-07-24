@@ -43,6 +43,11 @@ permalink: /activity/
     <div class="act-meta">Jul 21–25, 2026 &nbsp;·&nbsp; Department of Culture and History of India and Tibet, Hamburg University &nbsp;·&nbsp; Hamburg, Germany</div>
   </div>
 
+  <div class="act-item">
+    <div class="act-title"><a href="https://limudey-hutz.co.il/artificial-intelligence/">AI Development Expert</a></div>
+    <div class="act-meta">2026 &nbsp;·&nbsp; <a href="https://limudey-hutz.co.il/">Limudey Hutz</a> &nbsp;·&nbsp; Israel</div>
+  </div>
+
 </div>
 
 <h2 class="act-section-heading">Talks</h2>
