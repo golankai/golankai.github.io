@@ -55,6 +55,11 @@ permalink: /activity/
 <div class="act-list">
 
   <div class="act-item">
+    <div class="act-title"><a href="https://luma.com/bbxxizyr">Buddhist Benchmarking &amp; Evaluation Webinar</a></div>
+    <div class="act-meta">Jul 31, 2026 &nbsp;·&nbsp; Intellexus &nbsp;·&nbsp; Zoom</div>
+  </div>
+
+  <div class="act-item">
     <div class="act-title">Towards Idea Discovery: Extracting and Matching Ideas from Corpora via Idiomatic Expressions</div>
     <div class="act-meta">Feb 3, 2026 &nbsp;·&nbsp; KU Leuven &nbsp;·&nbsp; Leuven, Belgium</div>
   </div>
@@ -106,8 +111,8 @@ permalink: /activity/
   </div>
 
   <div class="act-item">
-    <div class="act-title">Intellexus Panel at the XXth Congress of the International Association of Buddhist Studies (IABS)</div>
-    <div class="act-meta">Aug 10, 2025</div>
+    <div class="act-title">Intellexus Panel at the <a href="https://iabsinfo.net/2024/05/xxth-iabs-conference/">XXth Congress of the International Association of Buddhist Studies (IABS)</a></div>
+    <div class="act-meta">Aug 10, 2025 &nbsp;·&nbsp; Leipzig University &nbsp;·&nbsp; Leipzig, Germany</div>
   </div>
 
 </div>

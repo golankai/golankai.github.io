@@ -111,13 +111,18 @@ title: Kai Golan Hashiloni
 <div style="font-size: 0.82em; line-height: 1.35; border-top: 1px solid #ccc; margin-top: 0.3em;">
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jul 21–25, 2026</span>
-    <span>Taught the <strong>AI Workshop for Tibetan Studies</strong> in Hamburg, Germany.</span>
+    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jul 31, 2026</span>
+    <span>Co-hosted the <a href="https://luma.com/bbxxizyr"><strong>Buddhist Benchmarking &amp; Evaluation Webinar</strong></a>.</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jun 2026</span>
+    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jul 2026</span>
     <span><a href="https://aclanthology.org/2026.findings-acl.1045/">ID10M-JAM</a> accepted to <strong>ACL 2026</strong>, Findings.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jul 21–25, 2026</span>
+    <span>Taught the <strong>AI Workshop for Tibetan Studies</strong> in Hamburg, Germany.</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
@@ -164,12 +169,6 @@ title: Kai Golan Hashiloni
     <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Dec 9, 2025</span>
     <span>Talk at <strong>Keio University</strong> in Tokyo, Japan: "Intellexus Research"</span>
   </div>
-
-  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Dec 1, 2025</span>
-    <span>Talk at <strong>AIST</strong> in Tokyo, Japan: "Intellexus Research"</span>
-  </div>
-
 
 </div>
 

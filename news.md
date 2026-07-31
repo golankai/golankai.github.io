@@ -38,13 +38,18 @@ permalink: /news/
 <div class="news-list">
 
   <div class="news-row">
-    <span class="news-date">Jul 21–25, 2026</span>
-    <span>Taught the <strong>AI Workshop for Tibetan Studies</strong> in Hamburg, Germany.</span>
+    <span class="news-date">Jul 31, 2026</span>
+    <span>Co-hosted the <a href="https://luma.com/bbxxizyr"><strong>Buddhist Benchmarking &amp; Evaluation Webinar</strong></a>.</span>
   </div>
 
   <div class="news-row">
-    <span class="news-date">Jun 2026</span>
+    <span class="news-date">Jul 2026</span>
     <span><a href="https://aclanthology.org/2026.findings-acl.1045/">ID10M-JAM: Stress-Testing Idiom Identification Under Challenging Context</a> accepted to <strong>ACL 2026</strong>, Findings.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">Jul 21–25, 2026</span>
+    <span>Taught the <strong>AI Workshop for Tibetan Studies</strong> in Hamburg, Germany.</span>
   </div>
 
   <div class="news-row">
@@ -119,7 +124,7 @@ permalink: /news/
 
   <div class="news-row">
     <span class="news-date">Aug 10, 2025</span>
-    <span>Participated in the <strong>Intellexus Panel</strong> at the XXth Congress of the International Association of Buddhist Studies (IABS).</span>
+    <span>Participated in the <strong>Intellexus Panel</strong> at the <a href="https://iabsinfo.net/2024/05/xxth-iabs-conference/">XXth Congress of the International Association of Buddhist Studies (IABS)</a> in Leipzig, Germany.</span>
   </div>
 
   <div class="news-row">
