@@ -1,0 +1,106 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<style>
+  /* Overrides Alembic's header include; loaded on every page, so site-wide chrome lives here */
+  body, h1, h2, h3, h4, h5, h6, p, li, button {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+  }
+
+  .article--page > h1 {
+    color: #1a4b8c;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+  }
+  .typeset h2 {
+    color: #1a4b8c;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+  }
+
+  /* Navbar */
+  .kai-nav {
+    background: #f8fafc;
+    border-bottom: 1px solid #e2e8f0;
+    margin-bottom: 40px;
+  }
+  .kai-nav-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px 32px;
+    flex-wrap: wrap;
+    min-height: 76px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .kai-nav .kai-nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    color: #1e293b !important;
+    text-decoration: none !important;
+    font-size: 1.15em;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+  }
+  .kai-nav .kai-nav-brand:hover { color: #1a4b8c !important; }
+  .kai-nav-brand img {
+    height: 48px;
+    width: auto;
+    display: block;
+  }
+  .kai-nav-links {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px 28px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .kai-nav-links li { margin: 0; padding: 0; }
+  .kai-nav .kai-nav-links a {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: #374151 !important;
+    text-decoration: none !important;
+    padding-bottom: 3px;
+    border-bottom: 2px solid transparent !important;
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .kai-nav .kai-nav-links a:hover,
+  .kai-nav .kai-nav-links a.is-current {
+    color: #1a4b8c !important;
+    border-bottom-color: #1a4b8c !important;
+  }
+
+  /* Footer */
+  .footer {
+    background: #f8fafc !important;
+    border-top: 1px solid #e2e8f0 !important;
+  }
+  .footer small, .footer a { color: #94a3b8 !important; }
+  .footer a:hover { color: #1a4b8c !important; }
+
+  @media (max-width: 640px) {
+    .kai-nav-inner { justify-content: center; padding-top: 14px; padding-bottom: 14px; }
+    .kai-nav-links { justify-content: center; gap: 8px 20px; }
+  }
+</style>
+
+<header class="kai-nav">
+  <div class="container kai-nav-inner">
+    <a class="kai-nav-brand" href="{{ '/' | relative_url }}">
+      {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="">{% endif %}
+      {{ site.title }}
+    </a>
+    <ul class="kai-nav-links">
+      {% for link in site.navigation_header %}
+        {% assign link_url = link.url | relative_url %}
+        <li><a href="{{ link_url }}"{% if page.url == link.url %} class="is-current"{% endif %}>{{ link.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</header>

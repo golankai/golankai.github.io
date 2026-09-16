@@ -6,19 +6,93 @@ permalink: /
 
 {% include custom_style.html %}
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+<style>
+  .article--page > h1:first-child { display: none; }
 
-  <div style="flex: 1; min-width: 250px;">
-    <p>Nice to meet you! I am Kai, an NLP enthusiast and a hard worker. I'm currently a PhD Student at Reichman University, Israel. I explore the intersection of languages and computers, focusing the low-resource languages and LLMs understanding and representation abilities.</p>
-  </div>
+  .home-hero {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+    flex-wrap: wrap-reverse;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 14px;
+    padding: 32px 36px;
+    margin-bottom: 28px;
+  }
+  .home-hero-text { flex: 1; min-width: 260px; }
+  .typeset .home-hero-title {
+    font-size: clamp(1.9em, 5vw, 2.4em);
+    font-weight: 800;
+    line-height: 1.15;
+    letter-spacing: -1px;
+    color: #1a4b8c;
+    margin: 0 0 6px;
+  }
+  .typeset .home-hero-subtitle {
+    line-height: 1.5;
+    font-size: 1.05em;
+    font-weight: 500;
+    color: #64748b;
+    margin: 0 0 16px;
+  }
+  .typeset .home-hero-desc { margin: 0; line-height: 1.75; color: #374151; }
+  .home-hero img {
+    width: 190px;
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    display: block;
+  }
 
-  <div>
-    <img src="/assets/kai.jpg" 
-         alt="Kai Golan Hashiloni"
-         style="width: 250px; border-radius: 12px; margin-top: 5px;" />
+  .research-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 16px 0 32px;
+  }
+  .research-card {
+    background: #ffffff;
+    border-radius: 10px;
+    border-top: 3px solid #1a4b8c;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    padding: 20px 24px;
+  }
+  .typeset .research-card h3 {
+    font-size: 1.05em;
+    font-weight: 700;
+    line-height: 1.4;
+    color: #1a4b8c;
+    margin: 0 0 8px;
+    padding: 0;
+  }
+  .typeset .research-card p {
+    font-size: 0.92em;
+    line-height: 1.65;
+    color: #374151;
+    margin: 0;
+  }
+  .typeset .research-card .research-card-example {
+    font-size: 0.85em;
+    color: #64748b;
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px solid #e2e8f0;
+  }
+
+  @media (max-width: 640px) {
+    .home-hero { padding: 24px 20px; justify-content: center; }
+  }
+</style>
+
+<div class="home-hero">
+  <div class="home-hero-text">
+    <p class="home-hero-title">Kai Golan Hashiloni</p>
+    <p class="home-hero-subtitle">NLP Researcher · PhD Student at Reichman University</p>
+    <p class="home-hero-desc">Nice to meet you! I am Kai, an NLP enthusiast and a hard worker. I'm currently a PhD Student at Reichman University, Israel. I explore the intersection of languages and computers, focusing the low-resource languages and LLMs understanding and representation abilities.</p>
   </div>
+  <img src="/assets/kai.jpg" alt="Kai Golan Hashiloni" />
 </div>
-
 
 <p>I am a lead researcher in the ERC Synergy funded project <a href="https://intellexus.net/">Intellexus</a>, where we study the "Geology of Texts, Genealogy of Concepts and Intellectual Ecosystems in the Indic and Tibetic Buddhist Text Corpora". </p>
 
@@ -177,34 +251,35 @@ permalink: /
 
 ## My Research
 
-<div style="background-color: #e8f0f8; border-left: 3px solid #1a4b8c; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0; margin-bottom: 10px; color: #1a4b8c;">Computational Linguistics</h3>
-  <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.95em;">I investigate non-compositional language phenomena such as idioms and metaphors, using LLMs to study how meaning emerges beyond individual words. This work combines linguistic theory with modern neural methods to better understand semantic representation.</p>
-  <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;"><em>Example:</em> <a href="https://aclanthology.org/2025.emnlp-main.1213/">Easy as PIE? Identifying Multi-Word Expressions with LLMs</a> (Hashiloni et al., 2025)</p>
+<div class="research-grid">
+
+  <div class="research-card">
+  <h3>Computational Linguistics</h3>
+  <p>I investigate non-compositional language phenomena such as idioms and metaphors, using LLMs to study how meaning emerges beyond individual words. This work combines linguistic theory with modern neural methods to better understand semantic representation.</p>
+  <p class="research-card-example"><em>Example:</em> <a href="https://aclanthology.org/2025.emnlp-main.1213/">Easy as PIE? Identifying Multi-Word Expressions with LLMs</a> (Hashiloni et al., 2025)</p>
+  </div>
+
+  <div class="research-card">
+  <h3>Digital Humanities</h3>
+  <p>Together with the ERC Synergy project <a href="https://intellexus.net/">Intellexus</a>, I develop language technologies for the analysis of Buddhist texts in Sanskrit and Tibetan, bridging NLP with philology and cultural studies. I aim to enable large-scale, computational access to historical knowledge.</p>
+  <p class="research-card-example"><em>Example:</em> <a href="https://aclanthology.org/2025.ijcnlp-long.114/">DharmaBench: Evaluating Language Models on Buddhist Texts in Sanskrit and Tibetan</a> (Hashiloni et al., 2025)</p>
+  </div>
+
+  <div class="research-card">
+  <h3>Low-Resource Languages</h3>
+  <p>My research focuses on modeling underrepresented languages such as Sanskrit, Tibetan, and Hebrew. I develop methods for learning with limited data, often leveraging cross-lingual transfer and prompt-based approaches to extend NLP capabilities beyond high-resource settings.</p>
+  </div>
+
+  <div class="research-card">
+  <h3>Safety in AI</h3>
+  <p>I study interpretability and explainability in large language models, with a focus on how meaning is represented across layers and prompts. My work explores how we can better understand, trust, and control LLM behavior in complex linguistic tasks.</p>
+  <p class="research-card-example"><em>Example:</em> <a href="https://aclanthology.org/2025.ijcnlp-long.136/">Not Just a Piece of Cake: Cross-Lingual Fine-Tuning for Idiom Identification</a> (Hefetz et al., 2025)</p>
+  </div>
+
+  <div class="research-card">
+  <h3>NLP for Healthcare</h3>
+  <p>Together with <a href="https://www.tasmc.org.il/rd/i-next-data/">I-NEXT DATA</a> at the Tel Aviv Sourasky Medical Center (Ichilov), we design NLP systems for real-world healthcare impact. We develop NLP pipelines for extracting structured patient journeys from clinical records and anonymizing sensitive text. Our research emphasizes privacy-preserving methods and the responsible deployment of language models in medical domains.</p>
+  <p class="research-card-example"><em>Example:</em> <a href="https://arxiv.org/html/2512.11502v1">Building Patient Journeys in Hebrew: A Language Model for Clinical Timeline Extraction</a> (Hashiloni et al., 2025)</p>
+  </div>
+
 </div>
-
-<div style="background-color: #e8f0f8; border-left: 3px solid #1a4b8c; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0; margin-bottom: 10px; color: #1a4b8c;">Digital Humanities</h3>
-  <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.95em;">Together with the ERC Synergy project <a href="https://intellexus.net/">Intellexus</a>, I develop language technologies for the analysis of Buddhist texts in Sanskrit and Tibetan, bridging NLP with philology and cultural studies. I aim to enable large-scale, computational access to historical knowledge.</p>
-  <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;"><em>Example:</em> <a href="https://aclanthology.org/2025.ijcnlp-long.114/">DharmaBench: Evaluating Language Models on Buddhist Texts in Sanskrit and Tibetan</a> (Hashiloni et al., 2025)</p>
-</div>
-
-<div style="background-color: #e8f0f8; border-left: 3px solid #1a4b8c; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0; margin-bottom: 10px; color: #1a4b8c;">Low-Resource Languages</h3>
-  <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;">My research focuses on modeling underrepresented languages such as Sanskrit, Tibetan, and Hebrew. I develop methods for learning with limited data, often leveraging cross-lingual transfer and prompt-based approaches to extend NLP capabilities beyond high-resource settings.</p>
-</div>
-
-<div style="background-color: #e8f0f8; border-left: 3px solid #1a4b8c; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0; margin-bottom: 10px; color: #1a4b8c;">Safety in AI</h3>
-  <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.95em;">I study interpretability and explainability in large language models, with a focus on how meaning is represented across layers and prompts. My work explores how we can better understand, trust, and control LLM behavior in complex linguistic tasks.</p>
-  <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;"><em>Example:</em> <a href="https://aclanthology.org/2025.ijcnlp-long.136/">Not Just a Piece of Cake: Cross-Lingual Fine-Tuning for Idiom Identification</a> (Hefetz et al., 2025)</p>
-</div>
-
-<div style="background-color: #e8f0f8; border-left: 3px solid #1a4b8c; padding: 16px; border-radius: 12px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0; margin-bottom: 10px; color: #1a4b8c;">NLP for Healthcare</h3>
-  <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.95em;">Together with <a href="https://www.tasmc.org.il/rd/i-next-data/">I-NEXT DATA</a> at the Tel Aviv Sourasky Medical Center (Ichilov), we design NLP systems for real-world healthcare impact. We develop NLP pipelines for extracting structured patient journeys from clinical records and anonymizing sensitive text. Our research emphasizes privacy-preserving methods and the responsible deployment of language models in medical domains.</p>
-  <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;"><em>Example:</em> <a href="https://arxiv.org/html/2512.11502v1">Building Patient Journeys in Hebrew: A Language Model for Clinical Timeline Extraction</a> (Hashiloni et al., 2025)</p>
-</div>
-
-
-
