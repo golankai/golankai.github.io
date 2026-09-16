@@ -1,5 +1,6 @@
 ---
 title: Kai Golan Hashiloni
+permalink: /
 
 ---
 

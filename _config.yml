@@ -1,9 +1,14 @@
 # Set theme
 remote_theme: daviddarnes/alembic@main
 
+# Pages live in _pages/ (underscore folders are skipped unless included)
+include:
+- _pages
+
 # File excludes
 exclude:
 - README.md
+- CLAUDE.md
 - Gemfile
 - Gemfile.lock
 
@@ -20,10 +25,10 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://golankai.github.io'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Kai Golan Hashiloni'
+description: 'NLP Researcher'
 permalink: pretty
 logo: "/assets/logo.png"
 

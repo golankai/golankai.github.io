@@ -1,16 +1,18 @@
-# Starter kit for [Alembic](https://alembic.darn.es/)
+# golankai.github.io
 
-This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
+Personal academic website of Kai Golan Hashiloni, built with Jekyll and the [Alembic](https://alembic.darn.es/) theme and hosted on GitHub Pages.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
+## Local development
 
-or
+```
+bundle install
+bundle exec jekyll serve    # http://localhost:4000
+```
 
-**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+## Layout
 
-## To run locally
-1. Make sure you have [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and [Bundler](https://bundler.io/) installed
-2. Clone this repository
-3. Run `bundle install` to install dependencies
-4. Run `bundle exec jekyll serve` to start a local server
-5. Open your browser to `http://localhost:4000`
+- `_pages/` — site pages (home, publications, news, activity, CV, contact, paper landing pages)
+- `_posts/` — blog posts
+- `_includes/` — shared snippets (e.g. `custom_style.html`)
+- `assets/` — images and the CV PDF
+- `_config.yml` — site settings and navigation

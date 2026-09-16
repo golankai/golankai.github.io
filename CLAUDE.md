@@ -17,7 +17,7 @@ There are no tests, linters, or JS/CSS build steps — content changes are just 
 
 ## Structure
 
-- Top-level `*.md` files (`index.md`, `publications.md`, `news.md`, `activity.md`, `cv.md`, `contact.md`, `dharmabench.md`, `id10m-jam.md`, `404.md`) are Jekyll pages, each with YAML front matter (`title`, `permalink`, and sometimes `sitemap: false` / `indexing: false` for hidden pages) followed by inline HTML/Markdown content.
+- `_pages/*.md` files (`index.md`, `publications.md`, `news.md`, `activity.md`, `cv.md`, `contact.md`, `dharmabench.md`, `id10m-jam.md`, `404.md`) are Jekyll pages. The folder is pulled in via `include: [_pages]` in `_config.yml`, so pages keep their URLs only through an explicit `permalink` — every page needs one. Each has with YAML front matter (`title`, `permalink`, and sometimes `sitemap: false` / `indexing: false` for hidden pages) followed by inline HTML/Markdown content.
 - `_config.yml` defines site-wide settings and the header/footer navigation (`navigation_header` / `navigation_footer`). Adding a page to the main nav means adding an entry here.
 - `_includes/custom_style.html` holds a site-wide `<style>` override (link colors, buttons, `<hr>`) and is pulled into pages via `{% include custom_style.html %}` — nearly every page includes this at the top.
 - `_posts/` holds blog posts (Jekyll date-prefixed filenames); `blog/index.html` is the blog listing page.
