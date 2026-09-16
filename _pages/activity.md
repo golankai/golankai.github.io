@@ -39,6 +39,16 @@ permalink: /activity/
 <div class="act-list">
 
   <div class="act-item">
+    <div class="act-title"><a href="https://drive.google.com/file/d/1JXTHkY3sW5Ha-e8ulBs9rvnzjG0WKmwN/view?usp=sharing">Workshop: Digitizing the Classics</a></div>
+    <div class="act-meta">Sep 10–11, 2026 &nbsp;·&nbsp; <a href="https://vixs.vn/en">VIXEX</a> &nbsp;·&nbsp; Hanoi, Vietnam</div>
+  </div>
+
+  <div class="act-item">
+    <div class="act-title"><a href="https://drive.google.com/file/d/18MyXfd4xjhKlLyiknbs1_ONeFMQXgEjD/view?usp=sharing">AI Workshop for ARPI Scholars</a></div>
+    <div class="act-meta">Aug 31 – Sep 4, 2026 &nbsp;·&nbsp; Khyentse Center, Shechen Monastery &nbsp;·&nbsp; Boudhanath, Nepal</div>
+  </div>
+
+  <div class="act-item">
     <div class="act-title">AI Workshop for Tibetan Studies</div>
     <div class="act-meta">Jul 21–25, 2026 &nbsp;·&nbsp; Department of Culture and History of India and Tibet, Hamburg University &nbsp;·&nbsp; Hamburg, Germany</div>
   </div>
@@ -94,6 +104,11 @@ permalink: /activity/
 <h2 class="act-section-heading">Events</h2>
 
 <div class="act-list">
+
+  <div class="act-item">
+    <div class="act-title">Intellexus Panel at the <a href="https://www.iats.info/17th-iats-seminar-2026/">17th Seminar of the International Association for Tibetan Studies (IATS)</a></div>
+    <div class="act-meta">Aug 23–29, 2026 &nbsp;·&nbsp; International Association for Tibetan Studies &nbsp;·&nbsp; Online</div>
+  </div>
 
   <div class="act-item">
     <div class="act-title">Workshop on Tibetan Translation and AI</div>

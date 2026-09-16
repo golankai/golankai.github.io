@@ -27,7 +27,7 @@ permalink: /news/
     align-items: baseline;
   }
   .news-date {
-    width: 7.5em;
+    width: 9em;
     color: #888;
     flex-shrink: 0;
     white-space: nowrap;
@@ -36,6 +36,21 @@ permalink: /news/
 
 <h2 class="news-year">2026</h2>
 <div class="news-list">
+
+  <div class="news-row">
+    <span class="news-date">Sep 10–11, 2026</span>
+    <span>Gave the <a href="https://drive.google.com/file/d/1JXTHkY3sW5Ha-e8ulBs9rvnzjG0WKmwN/view?usp=sharing"><strong>Digitizing the Classics</strong></a> workshop by <a href="https://vixs.vn/en">VIXEX</a> in Hanoi, Vietnam.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">Aug 31–Sep 4, 2026</span>
+    <span>Taught the <a href="https://drive.google.com/file/d/18MyXfd4xjhKlLyiknbs1_ONeFMQXgEjD/view?usp=sharing"><strong>AI Workshop for ARPI Scholars</strong></a> at Shechen Monastery in Boudhanath, Nepal.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">Aug 23–29, 2026</span>
+    <span>Participated in the <strong>Intellexus Panel</strong> at the <a href="https://www.iats.info/17th-iats-seminar-2026/">17th Seminar of the International Association for Tibetan Studies (IATS)</a>, held online.</span>
+  </div>
 
   <div class="news-row">
     <span class="news-date">Jul 31, 2026</span>

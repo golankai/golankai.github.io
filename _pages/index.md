@@ -186,62 +186,77 @@ permalink: /
 <div style="font-size: 0.82em; line-height: 1.35; border-top: 1px solid #ccc; margin-top: 0.3em;">
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jul 31, 2026</span>
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Sep 10–11, 2026</span>
+    <span>Gave the <a href="https://drive.google.com/file/d/1JXTHkY3sW5Ha-e8ulBs9rvnzjG0WKmwN/view?usp=sharing"><strong>Digitizing the Classics</strong></a> workshop by <a href="https://vixs.vn/en">VIXEX</a> in Hanoi, Vietnam.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Aug 31–Sep 4, 2026</span>
+    <span>Taught the <a href="https://drive.google.com/file/d/18MyXfd4xjhKlLyiknbs1_ONeFMQXgEjD/view?usp=sharing"><strong>AI Workshop for ARPI Scholars</strong></a> at Shechen Monastery in Boudhanath, Nepal.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Aug 23–29, 2026</span>
+    <span>Participated in the <strong>Intellexus Panel</strong> at the <a href="https://www.iats.info/17th-iats-seminar-2026/">17th Seminar of the International Association for Tibetan Studies (IATS)</a>, held online.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jul 31, 2026</span>
     <span>Co-hosted the <a href="https://luma.com/bbxxizyr"><strong>Buddhist Benchmarking &amp; Evaluation Webinar</strong></a>.</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jul 2026</span>
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jul 2026</span>
     <span><a href="https://aclanthology.org/2026.findings-acl.1045/">ID10M-JAM</a> accepted to <strong>ACL 2026</strong>, Findings.</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jul 21–25, 2026</span>
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jul 21–25, 2026</span>
     <span>Taught the <strong>AI Workshop for Tibetan Studies</strong> in Hamburg, Germany.</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Apr 16–19, 2026</span>
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Apr 16–19, 2026</span>
     <span>Participated in a <strong>Workshop on Tibetan Translation and AI</strong> in Padua, Italy.</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Feb 8, 2026</span>
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Feb 8, 2026</span>
     <span>Organized the <strong>Intellexus Annual Nexus 2026</strong> in Herzliya, Israel.</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Feb 3, 2026</span>
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Feb 3, 2026</span>
     <span>Talk at <strong>KU Leuven</strong> in Leuven, Belgium: "Towards Idea Discovery"</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jan 29, 2026</span>
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jan 29, 2026</span>
     <span>Talk at <strong>University of Copenhagen</strong> in Copenhagen, Denmark: "Towards Idea Discovery"</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jan 20, 2026</span>
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jan 20, 2026</span>
     <span>Talk at <strong>Dharma Drum Institute of Liberal Arts</strong> in New Taipei, Taiwan: "Towards NLP-based Analysis of Buddhist Corpora"</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jan 14, 2026</span>
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jan 14, 2026</span>
     <span>Talk at <strong>Fo Guang Shan Monastery</strong> in Kaohsiung, Taiwan: "Towards NLP-based Analysis of Buddhist Corpora"</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Dec 2025</span>
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Dec 2025</span>
     <span><a href="https://aclanthology.org/2025.ijcnlp-long.136/">Not Just a Piece of Cake</a> accepted to <strong>IJCNLP-AACL 2025</strong>, Main Track.</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Dec 2025</span>
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Dec 2025</span>
     <span><a href="https://aclanthology.org/2025.ijcnlp-long.114/">DharmaBench</a> accepted to <strong>IJCNLP-AACL 2025</strong>, Main Track.</span>
   </div>
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 7.2em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Dec 9, 2025</span>
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Dec 9, 2025</span>
     <span>Talk at <strong>Keio University</strong> in Tokyo, Japan: "Intellexus Research"</span>
   </div>
 
