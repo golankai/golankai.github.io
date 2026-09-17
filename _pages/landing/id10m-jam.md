@@ -1,8 +1,6 @@
 ---
 title: ID10M-JAM
 permalink: /id10m-jam/
-sitemap: false
-indexing: false
 ---
 
 {% include custom_style.html %}
