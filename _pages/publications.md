@@ -99,10 +99,64 @@ permalink: /publications/
     background-image: none !important;
     visibility: hidden !important;
   }
+  .pub-download-wrap {
+    text-align: center;
+    margin: 32px 0 0;
+  }
+  .pub-download-wrap a {
+    display: inline-block;
+    padding: 10px 22px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.95em;
+    text-decoration: none !important;
+    color: #fff !important;
+    background: #1a4b8c;
+    transition: background 0.15s;
+  }
+  .pub-download-wrap a:hover {
+    background: #6a9bd0;
+    color: #fff !important;
+  }
 </style>
 
 <h2 class="pub-year-heading">2026</h2>
 <ul class="pub-list">
+
+  <li>
+    <div class="pub-venue">EMNLP 2026</div>
+    <div class="pub-title"><a href="https://drive.google.com/file/d/1SBXyarzc8NnTYHsTew2yP01qXABICHRm/view?usp=sharing">IdioLink: Retrieving Meaning Beyond Words Across Idiomatic and Literal Expressions</a></div>
+    <div class="pub-authors"><strong>Kai Golan Hashiloni</strong>, Daniel Fadlon, Lior Livyatan, Ofri Hefetz, Jiahuan Pei, and Kfir Bar</div>
+    <div class="pub-links"><a href="https://drive.google.com/file/d/1SBXyarzc8NnTYHsTew2yP01qXABICHRm/view?usp=sharing">Paper</a> <a href="https://github.com/Intellexus-DSI/IdioLink">Code</a> <a href="https://huggingface.co/datasets/Intellexus/IdioLink">Dataset</a></div>
+  </li>
+
+  <li>
+    <div class="pub-venue">EMNLP 2026 Findings</div>
+    <div class="pub-title">MoraLink: Bridging Morals and Narrative Fables for Retrieval</div>
+    <div class="pub-authors">Lior Livyatan, <strong>Kai Golan Hashiloni</strong>, Asif Amar, Roei Rahamim, and Kfir Bar</div>
+    <div class="pub-links"><a href="https://github.com/Intellexus-DSI/MoraLink">Code</a> <a href="https://huggingface.co/datasets/Intellexus/MoraLink">Dataset</a></div>
+  </li>
+
+  <li>
+    <div class="pub-venue">EMNLP 2026</div>
+    <div class="pub-title">IdioSteer: Controlling Figurative-vs-Literal Interpretation via Residual-Stream Activation Steering</div>
+    <div class="pub-authors">Bar Cohen, <strong>Kai Golan Hashiloni</strong>, and Kfir Bar</div>
+    <div class="pub-links"><a href="https://github.com/Intellexus-DSI/IdioSteer">Code</a></div>
+  </li>
+
+  <li>
+    <div class="pub-venue">INLG 2026</div>
+    <div class="pub-title">Do We Really Need So Many Tokens? The Performance-Efficiency Trade-off in Tibetan and Sanskrit</div>
+    <div class="pub-authors">Orr Meir Zwebner, <strong>Kai Golan Hashiloni</strong>, Guy Bilitski, Oded Hellman, Nir Marciano, Erez Yousfan, Shai Fine, and Kfir Bar</div>
+    <div class="pub-links"><a href="https://github.com/Intellexus-DSI/do-we-really-need-so-many-tokens">Code</a></div>
+  </li>
+
+  <li>
+    <div class="pub-venue">AACL 2026</div>
+    <div class="pub-title">MuSe-MI: A Framework for Assessing Multi-Session Motivational Interviewing with AI-Generated Patients</div>
+    <div class="pub-authors">Topaz Freizeit, Moreah Zisquit, <strong>Kai Golan Hashiloni</strong>, Chaitze Tavens, Doron Friedman, and Kfir Bar</div>
+    <div class="pub-links"><a href="https://github.com/anonymous/muse-mi">Code</a></div>
+  </li>
 
   <li>
     <div class="pub-venue">ACL 2026 Findings</div>
@@ -152,3 +206,7 @@ permalink: /publications/
   </li>
 
 </ul>
+
+<div class="pub-download-wrap">
+  <a href="/assets/publications.pdf" download="Kai Golan Hashiloni - Publications.pdf" target="_blank" rel="noopener">Download Publications List</a>
+</div>

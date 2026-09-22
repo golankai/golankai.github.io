@@ -207,6 +207,11 @@ permalink: /
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
     <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jul 2026</span>
+    <span>Awarded the <a href="https://chateaubriand-fellowship.org/"><strong>2026 Chateaubriand Fellowship</strong></a> to perform a 2-month research stay at <a href="https://www.lattice.cnrs.fr/">LATTICE</a> with Prof. Thierry Poibeau.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jul 2026</span>
     <span><a href="https://aclanthology.org/2026.findings-acl.1045/">ID10M-JAM</a> accepted to <strong>ACL 2026</strong>, Findings.</span>
   </div>
 
@@ -228,36 +233,6 @@ permalink: /
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
     <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Feb 3, 2026</span>
     <span>Talk at <strong>KU Leuven</strong> in Leuven, Belgium: "Towards Idea Discovery"</span>
-  </div>
-
-  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jan 29, 2026</span>
-    <span>Talk at <strong>University of Copenhagen</strong> in Copenhagen, Denmark: "Towards Idea Discovery"</span>
-  </div>
-
-  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jan 20, 2026</span>
-    <span>Talk at <strong>Dharma Drum Institute of Liberal Arts</strong> in New Taipei, Taiwan: "Towards NLP-based Analysis of Buddhist Corpora"</span>
-  </div>
-
-  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Jan 14, 2026</span>
-    <span>Talk at <strong>Fo Guang Shan Monastery</strong> in Kaohsiung, Taiwan: "Towards NLP-based Analysis of Buddhist Corpora"</span>
-  </div>
-
-  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Dec 2025</span>
-    <span><a href="https://aclanthology.org/2025.ijcnlp-long.136/">Not Just a Piece of Cake</a> accepted to <strong>IJCNLP-AACL 2025</strong>, Main Track.</span>
-  </div>
-
-  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Dec 2025</span>
-    <span><a href="https://aclanthology.org/2025.ijcnlp-long.114/">DharmaBench</a> accepted to <strong>IJCNLP-AACL 2025</strong>, Main Track.</span>
-  </div>
-
-  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Dec 9, 2025</span>
-    <span>Talk at <strong>Keio University</strong> in Tokyo, Japan: "Intellexus Research"</span>
   </div>
 
 </div>

@@ -59,6 +59,11 @@ permalink: /news/
 
   <div class="news-row">
     <span class="news-date">Jul 2026</span>
+    <span>Awarded the <a href="https://chateaubriand-fellowship.org/"><strong>2026 Chateaubriand Fellowship</strong></a> to perform a 2-month research stay at <a href="https://www.lattice.cnrs.fr/">LATTICE</a> with Prof. Thierry Poibeau.</span>
+  </div>
+
+  <div class="news-row">
+    <span class="news-date">Jul 2026</span>
     <span><a href="https://aclanthology.org/2026.findings-acl.1045/">ID10M-JAM: Stress-Testing Idiom Identification Under Challenging Context</a> accepted to <strong>ACL 2026</strong>, Findings.</span>
   </div>
 

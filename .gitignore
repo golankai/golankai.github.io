@@ -1,2 +1,4 @@
 .jekyll-cache/
 _site/
+.claude/hooks/.cv_merge_state.json
+.claude/settings.local.json

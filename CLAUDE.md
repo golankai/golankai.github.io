@@ -22,7 +22,7 @@ There are no tests, linters, or JS/CSS build steps — content changes are just 
 - `_includes/custom_style.html` holds a site-wide `<style>` override (link colors, buttons, `<hr>`) and is pulled into pages via `{% include custom_style.html %}` — nearly every page includes this at the top.
 - `_includes/site-header.html` overrides Alembic's header include, so it loads on every page: it renders the navbar from `navigation_header` and holds the site-wide font (Plus Jakarta Sans), heading, and footer styles. Alembic's `.typeset` sets fixed `line-height`/padding on `p` and `h1`–`h6`, so custom components need `.typeset`-scoped selectors to override them.
 - `_posts/` holds blog posts (Jekyll date-prefixed filenames); `blog/index.html` is the blog listing page.
-- `assets/` holds images and the CV PDF (`assets/cv.pdf`), referenced directly by pages (e.g. `/assets/kai.jpg`).
+- `assets/` holds images and PDFs (`assets/Kai Golan Hashiloni - CV.pdf`, `assets/publications.pdf`), referenced directly by pages (e.g. `/assets/kai.jpg`).
 - `_site/` and `.jekyll-cache/` are Jekyll build output/cache — gitignored, never edit by hand.
 
 ## Page conventions
@@ -31,3 +31,4 @@ There are no tests, linters, or JS/CSS build steps — content changes are just 
 - The accent color `#1a4b8c` (hover: `#6a9bd0`) is used consistently across pages for headings, links, and buttons — match it in any new styled sections.
 - Research project landing pages live in `_pages/landing/` (`dharmabench.md`, `id10m-jam.md`, `idiolink.md`). They are minimal single-purpose pages linking out to the paper/code/dataset, not linked from anywhere on the site — shared by direct URL only. They stay in the sitemap and are indexable — the point is only that no nav entry or button links to them. Put future paper landing pages there.
 - `news.md`, `publications.md`, and `activity.md` group entries by year using a repeated heading + list-row structure — check the existing markup in these files before adding entries so new items match the existing format.
+- `index.md` has its own hand-maintained copy of the News list (not auto-synced with `news.md`), capped at the 10 most recent entries — when adding a new news item to `news.md`, also add it here and drop the oldest entry to keep the count at 10.

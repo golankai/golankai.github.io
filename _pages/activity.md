@@ -32,9 +32,40 @@ permalink: /activity/
     font-size: 0.9em;
     margin-top: 0.15em;
   }
+  .act-jump {
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+    font-size: 0.9em;
+  }
+  .act-jump a {
+    color: #1a4b8c;
+    text-decoration: none;
+  }
+  .act-jump a:hover {
+    text-decoration: underline;
+  }
 </style>
 
-<h2 class="act-section-heading">Teaching</h2>
+<div class="act-jump">
+  <a href="#awards">Awards</a>
+  <a href="#teaching">Teaching</a>
+  <a href="#talks">Talks</a>
+  <a href="#events">Events</a>
+</div>
+
+<h2 class="act-section-heading" id="awards">Awards</h2>
+
+<div class="act-list">
+
+  <div class="act-item">
+    <div class="act-title"><a href="https://chateaubriand-fellowship.org/">2026 Chateaubriand Fellowship</a></div>
+    <div class="act-meta">Awarded to perform a 2-month research stay at <a href="https://www.lattice.cnrs.fr/">LATTICE</a> with Prof. Thierry Poibeau.</div>
+  </div>
+
+</div>
+
+<h2 class="act-section-heading" id="teaching">Teaching</h2>
 
 <div class="act-list">
 
@@ -60,7 +91,7 @@ permalink: /activity/
 
 </div>
 
-<h2 class="act-section-heading">Talks</h2>
+<h2 class="act-section-heading" id="talks">Talks</h2>
 
 <div class="act-list">
 
@@ -101,7 +132,7 @@ permalink: /activity/
 
 </div>
 
-<h2 class="act-section-heading">Events</h2>
+<h2 class="act-section-heading" id="events">Events</h2>
 
 <div class="act-list">
 
