@@ -155,7 +155,7 @@ permalink: /publications/
     <div class="pub-venue">AACL 2026</div>
     <div class="pub-title">MuSe-MI: A Framework for Assessing Multi-Session Motivational Interviewing with AI-Generated Patients</div>
     <div class="pub-authors">Topaz Freizeit, Moreah Zisquit, <strong>Kai Golan Hashiloni</strong>, Chaitze Tavens, Doron Friedman, and Kfir Bar</div>
-    <div class="pub-links"><a href="https://github.com/anonymous/muse-mi">Code</a></div>
+    <div class="pub-links"><a href="https://github.com/TopazFreizeit/MuSe-MI">Code</a></div>
   </li>
 
   <li>
