@@ -186,6 +186,11 @@ permalink: /
 <div style="font-size: 0.82em; line-height: 1.35; border-top: 1px solid #ccc; margin-top: 0.3em;">
 
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
+    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Oct 2026</span>
+    <span><a href="https://aclanthology.org/2026.emnlp-main.1912/">IdioLink</a> and <a href="https://aclanthology.org/2026.emnlp-main.1251/">IdioSteer</a> published in <strong>EMNLP 2026</strong>, Main Track; <a href="https://aclanthology.org/2026.findings-emnlp.2106/">MoraLink</a> published in <strong>EMNLP 2026</strong>, Findings.</span>
+  </div>
+
+  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
     <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Sep 10–11, 2026</span>
     <span>Gave the <a href="https://drive.google.com/file/d/1JXTHkY3sW5Ha-e8ulBs9rvnzjG0WKmwN/view?usp=sharing"><strong>Digitizing the Classics</strong></a> workshop by <a href="https://vixs.vn/en">VIXEX</a> in Hanoi, Vietnam.</span>
   </div>
@@ -228,11 +233,6 @@ permalink: /
   <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
     <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Feb 8, 2026</span>
     <span>Organized the <strong>Intellexus Annual Nexus 2026</strong> in Herzliya, Israel.</span>
-  </div>
-
-  <div style="display: flex; gap: 1.2em; padding: 0.2em 0; border-bottom: 1px solid #e0e0e0; align-items: baseline;">
-    <span style="width: 8.8em; color: #888; flex-shrink: 0; font-size: 0.95em; white-space: nowrap;">Feb 3, 2026</span>
-    <span>Talk at <strong>KU Leuven</strong> in Leuven, Belgium: "Towards Idea Discovery"</span>
   </div>
 
 </div>

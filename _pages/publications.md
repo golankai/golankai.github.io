@@ -125,23 +125,23 @@ permalink: /publications/
 
   <li>
     <div class="pub-venue">EMNLP 2026</div>
-    <div class="pub-title"><a href="https://drive.google.com/file/d/1SBXyarzc8NnTYHsTew2yP01qXABICHRm/view?usp=sharing">IdioLink: Retrieving Meaning Beyond Words Across Idiomatic and Literal Expressions</a></div>
+    <div class="pub-title"><a href="https://aclanthology.org/2026.emnlp-main.1912/">IdioLink: Retrieving Meaning Beyond Words Across Idiomatic and Literal Expressions</a></div>
     <div class="pub-authors"><strong>Kai Golan Hashiloni</strong>, Daniel Fadlon, Lior Livyatan, Ofri Hefetz, Jiahuan Pei, and Kfir Bar</div>
-    <div class="pub-links"><a href="https://drive.google.com/file/d/1SBXyarzc8NnTYHsTew2yP01qXABICHRm/view?usp=sharing">Paper</a> <a href="https://github.com/Intellexus-DSI/IdioLink">Code</a> <a href="https://huggingface.co/datasets/Intellexus/IdioLink">Dataset</a></div>
+    <div class="pub-links"><a href="https://aclanthology.org/2026.emnlp-main.1912/">Paper</a> <a href="https://github.com/Intellexus-DSI/IdioLink">Code</a> <a href="https://huggingface.co/datasets/Intellexus/IdioLink">Dataset</a></div>
   </li>
 
   <li>
     <div class="pub-venue">EMNLP 2026 Findings</div>
-    <div class="pub-title">MoraLink: Bridging Morals and Narrative Fables for Retrieval</div>
+    <div class="pub-title"><a href="https://aclanthology.org/2026.findings-emnlp.2106/">MoraLink: Bridging Morals and Narrative Fables for Retrieval</a></div>
     <div class="pub-authors">Lior Livyatan, <strong>Kai Golan Hashiloni</strong>, Asif Amar, Roei Rahamim, and Kfir Bar</div>
-    <div class="pub-links"><a href="https://github.com/Intellexus-DSI/MoraLink">Code</a> <a href="https://huggingface.co/datasets/Intellexus/MoraLink">Dataset</a></div>
+    <div class="pub-links"><a href="https://aclanthology.org/2026.findings-emnlp.2106/">Paper</a> <a href="https://github.com/Intellexus-DSI/MoraLink">Code</a> <a href="https://huggingface.co/datasets/Intellexus/MoraLink">Dataset</a></div>
   </li>
 
   <li>
     <div class="pub-venue">EMNLP 2026</div>
-    <div class="pub-title">IdioSteer: Controlling Figurative-vs-Literal Interpretation via Residual-Stream Activation Steering</div>
+    <div class="pub-title"><a href="https://aclanthology.org/2026.emnlp-main.1251/">IdioSteer: Controlling Figurative-vs-Literal Interpretation via Residual-Stream Activation Steering</a></div>
     <div class="pub-authors">Bar Cohen, <strong>Kai Golan Hashiloni</strong>, and Kfir Bar</div>
-    <div class="pub-links"><a href="https://github.com/Intellexus-DSI/IdioSteer">Code</a></div>
+    <div class="pub-links"><a href="https://aclanthology.org/2026.emnlp-main.1251/">Paper</a> <a href="https://github.com/Intellexus-DSI/IdioSteer">Code</a></div>
   </li>
 
   <li>

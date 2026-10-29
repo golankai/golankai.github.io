@@ -2,11 +2,15 @@
 Merges assets/publications.pdf onto the end of assets/<CV file>.pdf as page 2+,
 and records the resulting file's hash so check_cv_merge.py knows it's up to date.
 
-Usage: python merge_cv_pubs.py
+Usage: python merge_cv_pubs.py [source_cv.pdf]
+
+Pass the single-page CV exported from the source when it changed; without an argument the
+CV already in assets/ is used (re-running then would append the publications a second time).
 """
 import hashlib
 import json
 import os
+import sys
 from pypdf import PdfReader, PdfWriter
 
 REPO = os.environ.get("CLAUDE_PROJECT_DIR") or os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -23,8 +27,9 @@ def sha256(path):
 
 
 def main():
+    source = sys.argv[1] if len(sys.argv) > 1 else CV_PATH
     writer = PdfWriter()
-    for page in PdfReader(CV_PATH).pages:
+    for page in PdfReader(source).pages:
         writer.add_page(page)
     for page in PdfReader(PUBS_PATH).pages:
         writer.add_page(page)

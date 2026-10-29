@@ -38,6 +38,11 @@ permalink: /news/
 <div class="news-list">
 
   <div class="news-row">
+    <span class="news-date">Oct 2026</span>
+    <span><a href="https://aclanthology.org/2026.emnlp-main.1912/">IdioLink</a> and <a href="https://aclanthology.org/2026.emnlp-main.1251/">IdioSteer</a> published in <strong>EMNLP 2026</strong>, Main Track; <a href="https://aclanthology.org/2026.findings-emnlp.2106/">MoraLink</a> published in <strong>EMNLP 2026</strong>, Findings.</span>
+  </div>
+
+  <div class="news-row">
     <span class="news-date">Sep 10–11, 2026</span>
     <span>Gave the <a href="https://drive.google.com/file/d/1JXTHkY3sW5Ha-e8ulBs9rvnzjG0WKmwN/view?usp=sharing"><strong>Digitizing the Classics</strong></a> workshop by <a href="https://vixs.vn/en">VIXEX</a> in Hanoi, Vietnam.</span>
   </div>
