@@ -28,10 +28,11 @@ def sha256(path):
 
 def main():
     source = sys.argv[1] if len(sys.argv) > 1 else CV_PATH
+    pubs = sys.argv[2] if len(sys.argv) > 2 else PUBS_PATH
     writer = PdfWriter()
     for page in PdfReader(source).pages:
         writer.add_page(page)
-    for page in PdfReader(PUBS_PATH).pages:
+    for page in PdfReader(pubs).pages:
         writer.add_page(page)
     writer.add_metadata({
         "/Title": "Kai Golan Hashiloni - CV",
